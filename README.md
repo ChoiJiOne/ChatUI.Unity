@@ -4,6 +4,10 @@
 ## 유니티 엔진 버전
 - `6000.0.40f1`
 
+## 목표
+- 유니티를 이용한 채팅 UI 구현
+- 기존 참고 자료 기반의 기능 분석 및 개선 사항 적용
+
 ## 참고 자료
 - [[Unity Basic Skills] 07. UGUI - Canvas, EventSystem](https://www.youtube.com/watch?v=wvfCrh4LM1I&t=23s)
 - [[Unity Basic Skills] 13. UGUI Interactable - Scrollbar, ScrollView](https://www.youtube.com/watch?v=jy6c7HXKV2E&t=13s)
