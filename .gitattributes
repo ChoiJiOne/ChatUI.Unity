@@ -1,0 +1,2 @@
+*.hlsl linguist-vendored
+*.shader linguist-vendored
