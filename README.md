@@ -12,4 +12,6 @@
 - 메시지 입력 시 한글 또는 영어만 처리
 
 ## 참고 자료
+- [[Unity Basic Skills] 13. UGUI Interactable - Scrollbar, ScrollView](https://www.youtube.com/watch?v=jy6c7HXKV2E&t=13s)
+- [[Unity Basic Skills] 16. UGUI - Layout Components](https://www.youtube.com/watch?v=Cv3oQxjf1As)
 - [How to make a CHAT UI in Unity!](https://www.youtube.com/watch?v=u06nwL8BMI8&t=22s)
